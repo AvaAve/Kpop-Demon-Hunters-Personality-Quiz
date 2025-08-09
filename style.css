@@ -2,7 +2,10 @@
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
-}
+  background-color:#f8c5f6;
+    }
+    
+
 
 /* STYLE TEXT */
 h1 {
@@ -10,15 +13,101 @@ h1 {
   color: #0d9c90;
 }
 
+.title {
+  color: #ff70db;
+  text-align: center;
+}
+
 h2 {
   margin-top: 2em; 
 }
 
+.Instructions {
+  text-align: center;
+  font-size: 30px;
+  color: #ff70db;
+}
+
+.q1 {
+  text-align: center;
+}
+
+.q2 {
+  text-align: center;
+}
+
+.q3 {
+  text-align: center;
+}
+
+.q4 {
+  text-align: center;
+}
+
+.q5 {
+  text-align: center;
+}
+
+.q6 {
+  text-align: center;
+}
+
+.q7 {
+  text-align: center;
+}
+
+#result {
+  text-align: center;
+}
+
+
 /* STYLE FLEX CONTAINER */
-.question {
+.question1 {
   display: flex;
   /* uncomment the next line to center the questions and answers */
-  /* justify-content: center; */
+  justify-content: center; 
+  margin-top: 2em;
+}
+
+.question2 {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.question3 {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.question4 {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.question5 {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+ justify-content: center;
+  margin-top: 2em;
+}
+
+.question6 {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+ justify-content: center;
+  margin-top: 2em;
+}
+
+.question7 {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+  justify-content: center;
   margin-top: 2em;
 }
   
@@ -30,6 +119,12 @@ h2 {
 /* STYLE IMAGES */
 .answer-choice img {
   height: 10em;
+}
+
+.kpdh {
+  max-height: 300px;
+  margin-left:500px;
+  margin-right: 500px;
 }
 
 /* STYLE BUTTON */

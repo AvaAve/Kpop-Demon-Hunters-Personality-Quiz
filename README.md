@@ -48,6 +48,10 @@ CSS files add styling rules to your content like changing colors and fonts.
 
 JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
 
+
+For Athena Award:
+My project is a personality quiz themed after the movie, Kpop Demon Hunters. It has 7 questions and 3 answer possibilities for each to determine if the player is most like the movie characters Rumi, Mira, or Zoey. The name of my project is, "Kpop Demon Hunters Personality Quiz". I created this quiz during the GWC Pathways 2025 program for the web development track, and I used the languages HTML and CSS. Originally, I wasn't sure what my quiz was going to be about, but I had just watched Kpop Demon Hunters for the first time, (I'm now obsessed) and I had the idea to create a, "Which Huntr/x member are you?" quiz. However, with 3 main outcomes instead of 2, I struggled a little with making the results equal enough to have a clear winner. My solution to this was the idea of tied results, where if a player chose answers that resulted in an eventual tie, they'd get a result of (Example: "You're a mix of ____ & ____!")
+
 ### ← assets
 
 Drag in assets, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
